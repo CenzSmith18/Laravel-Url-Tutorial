@@ -1,0 +1,8 @@
+Part 1 (Integrasi Midtrans "Implementasi Snap Payment")
+https://www.youtube.com/watch?v=fcLmD8NlizM&list=PL8RropBrpKyrb4BZ2ya_H4-bQz23sSB3P&index=1
+
+Part 2 (Integrasi Midtrans "Routing, Parameter dan Callback")
+https://www.youtube.com/watch?v=e5quRJJ1GwA&list=PL8RropBrpKyrb4BZ2ya_H4-bQz23sSB3P&index=2
+
+Part 3 (Integrasi Midtrans "Keamanan dan Handler Webhooks")
+https://www.youtube.com/watch?v=-Ss6QLjaoUo&list=PL8RropBrpKyrb4BZ2ya_H4-bQz23sSB3P&index=3
